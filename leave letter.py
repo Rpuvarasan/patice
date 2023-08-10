@@ -1,0 +1,2 @@
+##LEAVE LETTER
+print("From,\n\tpuvarasan.R, \n\tNo:70, marriamman koil street, \n\tV.Thattanjavadi, Villaianor, \n\tPuducherry-605110.\nTo, \n\tOcean academy, \n\t#2, Karuvadikuppam Main Rd, Senthamarai Nagar, \n\tMuthialpet, Pondicherry-605003. \n\nSubject: Leave Application \n\nDear Madam,\n\n\tI will not be able to come to academy for 1 days due to some personal emergency. Therefore, \nI would like you to grant me leave for 15th august 2023. I would be obliged if you will consider this.\n\n\t\t\t\t\t\t\t\t\t\t\tYours truly,\n\t\t\t\t\t\t\t\t\t\t\tpuvarasan R")
